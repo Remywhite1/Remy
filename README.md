@@ -1,2 +1,2 @@
-# Remy
+Remy
 Ask out code
